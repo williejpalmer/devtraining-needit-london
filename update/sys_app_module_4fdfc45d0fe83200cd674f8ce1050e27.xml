@@ -19,6 +19,8 @@
         <query/>
         <report/>
         <roles>x_58872_needit.needit_user</roles>
+        <survey/>
+        <survey_overwrite>false</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-01-25 01:01:22</sys_created_on>
